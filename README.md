@@ -4,9 +4,9 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on Epidemic prediction project
-- 🌱 I’m currently learning java spring maven hadoop etc.
-- 🤔 I’m looking for entry level job-role as java developer, tester, data analyst, cyber security analyst.
+- 🔭 I’m currently working as a Offensive CyberSecurity intern at Inlighn Tech
+- 🌱 I’m currently learning java spring maven bash programming etc.
+- 🤔 I’m looking for entry level job-role as django developer, front-end developer, java developer, tester, data analyst, cyber security analyst.
 - 💬 Ask me about development, industries, coding, physics
 - 📫 How to reach me: sridip2003@gmail.com
 - 😄 Nickname: Subhro
